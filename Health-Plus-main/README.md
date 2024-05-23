@@ -60,11 +60,10 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 
 To run the project locally:
 
-1. Clone this repository: `git clone https://github.com/Alkaison/Health-Plus.git`
-2. Navigate to the project directory: `cd Health-Plus`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and visit: `http://localhost:3000/Health-Plus`
+. Navigate to the project directory: `cd Health-Plus`
+. Install dependencies: `npm install`
+. Start the development server: `npm start`
+. Open your browser and visit: `http://localhost:3000/Health-Plus`
 
 ## Contributing
 
